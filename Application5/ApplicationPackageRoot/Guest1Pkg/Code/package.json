@@ -1,0 +1,17 @@
+{
+  "name": "exit_and_resignation_microservies",
+  "version": "1.0.0",
+  "description": "Microservices for Exit And Resignation (TATA EVA PROJECT)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Vikash Kumar Chaudhary",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
