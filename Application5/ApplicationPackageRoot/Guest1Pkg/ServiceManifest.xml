@@ -24,7 +24,7 @@
     <EntryPoint>
       <ExeHost>
         <Program>index.js</Program>
-        <Arguments></Arguments>
+        <Arguments>Application5/ApplicationPackageRoot/Guest1Pkg/Code</Arguments>
         <WorkingFolder>CodeBase</WorkingFolder>
         <!-- Uncomment to log console output (both stdout and stderr) to one of the
              service's working directories. -->
